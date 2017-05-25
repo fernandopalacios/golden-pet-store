@@ -1,0 +1,12 @@
+.holi{
+ color:red;
+}
+.mainWindow{
+	display: inline-block;
+	margin-left: 200px;
+}
+.menuBtnStyle{
+	display:inline-block; 
+	width:40px;
+	height:40px;
+}
